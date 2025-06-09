@@ -1,7 +1,7 @@
 import requests, time, re, os
 
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
-TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
+TELEGRAM_BOT_TOKEN = os.getenv("7886061937:AAFqHvzEs2kxffLMmzKHTNHiSCBKYoZGy5c")
+TELEGRAM_CHAT_ID = os.getenv("8042792215")
 CHECK_INTERVAL = 5  # วินาที
 
 products = [
